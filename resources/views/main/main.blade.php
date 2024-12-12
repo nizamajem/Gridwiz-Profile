@@ -44,7 +44,7 @@
 							<a href="#" class="bt-menu-trigger"><span>Menu</span></a>
 							<ul>
 								<li class="current bt-icon"><a href="/">Home</a></li>
-								<li class="bt-icon"><a href="/about">About</a></li>
+								<li class="bt-icon"><a href="/comingsoon">About</a></li>
 								<li class="bt-icon"><a href="/comingsoon">Services</a></li>
 								<li class="bt-icon"><a href="/comingsoon">Staffs</a></li>
 								<li class="bt-icon"><a href="/comingsoon">Blog</a></li>
