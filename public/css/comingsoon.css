@@ -1,0 +1,47 @@
+
+.coming-soon-container {
+    text-align: center;
+    animation: fadeIn 1.5s ease-in-out;
+    padding-bottom: 60px;
+}
+
+.coming-soon-container h1 {
+    margin-top: 100px;
+    font-size: 3rem;
+    margin-bottom: 60px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.coming-soon-container p {
+    font-size: 1.5rem;
+    margin-bottom: 100px;
+    opacity: 0.9;
+}
+
+.coming-soon-container button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #09c5f9;
+    background-color: #fff;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+   
+}
+
+.coming-soon-container button:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: scale(0.9);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }}
